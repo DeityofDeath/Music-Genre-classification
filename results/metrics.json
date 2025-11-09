@@ -1,0 +1,17 @@
+{
+    "test_accuracy": 68.5,
+    "epochs_trained": 100,
+    "genres": [
+        "blues",
+        "classical",
+        "country",
+        "disco",
+        "hiphop",
+        "jazz",
+        "metal",
+        "pop",
+        "reggae",
+        "rock"
+    ],
+    "best_val_loss": 0.8918394207954407
+}

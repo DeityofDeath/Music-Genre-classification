@@ -45,11 +45,7 @@ spectrograms/*.npz
 *.npz
 
 # Results and Outputs
-results/*.png
-results/*.jpg
-results/*.json
-*.png
-*.jpg
+data/
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
